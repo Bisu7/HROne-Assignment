@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Create a `.env` file (or set environment variables in your shell):
 ```env
 MONGO_URI=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority
-MONGO_DB=HROne-Assignment
+MONGO_DB=Database Name
 ```
 
 ### 3. Seed Sample Data
